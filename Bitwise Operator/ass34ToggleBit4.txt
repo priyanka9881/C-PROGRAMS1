@@ -1,0 +1,3 @@
+/* Write a program which accept one number and position from user and
+toggle that bit. Return modified number.
+*/
